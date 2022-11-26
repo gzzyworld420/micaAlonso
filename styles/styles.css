@@ -10,7 +10,7 @@
     box-sizing: border-box;
     outline: none; border:none;
     text-decoration: none;
-    text-transform: capitalize;
+
     transition: all .2s linear;
     line-height: 1.5;
 }
@@ -35,12 +35,10 @@ section{
     font-size: 4rem;
     padding-bottom: 1rem;
     color:#111;
-    text-transform: uppercase;
 }
 
 .heading span{
     color:var(--main-color);
-    text-transform: uppercase;
 }
 
 .btn{
