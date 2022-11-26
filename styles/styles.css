@@ -74,15 +74,7 @@ header{
 }
 
 header .logo{
-    text-transform: uppercase;
-    color:#fff;
-    font-size: 3rem;
-    font-weight: bolder;
-}
-
-header .logo span{
-    text-transform: uppercase;
-    color:var(--main-color);
+    width: 100px;
 }
 
 header .navbar a{
