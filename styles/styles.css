@@ -372,6 +372,37 @@ header .follow a:hover{
     color:#666;
 }
 
+/*contact*/
+
+.contact{
+    background: beige;
+    width: 64%;
+    margin: 100px auto;
+    padding: 70px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    background-image: url();
+    background-size: cover;
+}
+
+.center h3{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 3px;
+    color: brown;
+}
+
+.center p{
+    font-size: 20px;
+    color: whitesmoke;
+    line-height: 26px;
+    margin-bottom: 25px;
+
+}
+
 /* portfolio */
 .portfolio .box-container{
     display: flex;
