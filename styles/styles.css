@@ -249,10 +249,6 @@ header .follow a:hover{
     align-items: center;
 }
 
-
-   
-
-
 /* my education */
 .experience .box-container{
     display: flex;
@@ -307,7 +303,7 @@ header .follow a:hover{
 /*contact*/
 
 .contact{
-    background: beige;
+    background: #362e3e;
     width: 64%;
     margin: 100px auto;
     padding: 70px 150px;
@@ -316,7 +312,7 @@ header .follow a:hover{
     justify-content: center;
     text-align: center;
     border-radius: 10px;
-    background-image: url();
+    background-image: url(../img/intro.png);
     background-size: cover;
 }
 
@@ -333,6 +329,29 @@ header .follow a:hover{
     line-height: 26px;
     margin-bottom: 25px;
 
+}
+
+.contact .action form input[type="email"]{
+    max-width: 100%;
+    width: 470px;
+    padding: 12px 15px;
+    background-color: firebrick;
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    margin: 0 10px 20px 0;
+    border-radius: 30px;
+}
+
+.contact .action form input[type="submit"]{
+    padding: 12px 15px;
+    background-color: orange;
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    margin: 0 10px 20px 0;
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 /* portfolio */
