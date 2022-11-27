@@ -180,6 +180,10 @@ header .follow a:hover{
     text-transform: uppercase;
 }
 
+.home .content h3 .mica{
+    color: wheat;
+}
+
 .home .content .info{
     font-size: 2.5rem;
     color:#111;
