@@ -313,14 +313,14 @@ header .follow a:hover{
     text-align: center;
     border-radius: 10px;
     background-image: url(../img/intro.png);
-    background-size: cover;
+
 }
 
 .center h3{
     font-size: 30px;
     font-weight: 500;
     margin-bottom: 3px;
-    color: brown;
+    color: whitesmoke;
 }
 
 .center p{
@@ -335,8 +335,8 @@ header .follow a:hover{
     max-width: 100%;
     width: 470px;
     padding: 12px 15px;
-    background-color: firebrick;
-    color: whitesmoke;
+    background-color: whitesmoke;
+    color: #362e3e;
     border: none;
     outline: none;
     margin: 0 10px 20px 0;
